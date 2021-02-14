@@ -1,7 +1,9 @@
-
+#include<iostream>
+#include<stdio.h>
+using namespace std;
 void merge(int arr[], int p, int q, int r) {
 
-    // Create L ← A[p..q] and M ← A[q+1..r]
+  
     int n1 = q - p + 1;
     int n2 = r - q;
 
