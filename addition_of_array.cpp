@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-    int r, c, a[100][100], b[100][100], sum[100][100], i, j;
+    int r, c, a[100][100], b[100][100], sum[100][100], i j;
 
     cout << "Enter number of rows (between 1 and 100): ";
     cin >> r;
